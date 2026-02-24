@@ -1,0 +1,2 @@
+"Ripped from" folder is for MIDIs which I took from Original sources (Game rips or Game FLPs)
+"Self-Made" folder is for MIDIs which I made by my ears.
