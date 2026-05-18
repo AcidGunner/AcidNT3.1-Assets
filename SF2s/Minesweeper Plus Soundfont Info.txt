@@ -1,0 +1,142 @@
+PLEASE READ ME BEFORE DOING ANYTHING ELSE!!!
+
+This is the documentation to Minesweeper Plus Soundfont.
+The Soundfont version is [v0.5]!!!
+
+For now contains only samples from:
+
+[EPISODE 1]
+Mines Ahoy (BGM Style 3/Stage Clear 3/[Lazy River/Great Lake] included)
+Final Boss 9 (BGM Style 9/Stage Clear 9 included)
+
+[EPISODE 2]
+Sweepin' Time (BGM Style 5/Stage Clear 5/[The Shallow End/Fountain Flows] included)
+Hungarian Dance No. 5, or idk, possible instruments found I guess.
+Minefield (BGM Style 6/Stage Clear 6/[Silent Marsh/Murky Swamp] included)
+The Custodian of the Sea (BGM Style 8/Stage Clear 8/[Gulf Of Misery/Black Water] included)
+Final Boss 10 (BGM Style 10/Stage Clear 10 included)
+
+[EPISODE 3]
+Final Boss 11 (Phase 2/BGM Style 11/Stage Clear 11/The Devil's Locker included)
+
+
+Also contains samples from PS3 Edition:
+Versus Mode 1/Lunate Elf
+Versus Mode 4/Scrap Brain (8-Bit)
+
+
+Where those instruments in soundfont used?
+I'm gonna count only existing ones :P
+Please DON'T ask where the drums to other songs are.
+
+
+MINESWEEPER PLUS (TITLE/END SCREEN):
+
+Boss 9 Bass
+Boss 9 String
+Mines Ahoy Organ 1
+Custodian Brass
+Custodian Flute
+NES Pulse 50%
+
+
+[EPISODE 1]
+
+
+MINES AHOY:
+
+Mines Ahoy Bass
+Mines Ahoy Drums
+Mines Ahoy Harmonica
+Mines Ahoy Horn
+Mines Ahoy Organ 1
+Mines Ahoy Organ 2
+Mines Ahoy Sax
+Boss 9 Orch Hit
+
+
+FINAL BOSS 9:
+
+Boss 9 Bass
+Boss 9 Drums
+Boss 9 Guitar
+Boss 9 Lead
+Boss 9 Mallet
+Boss 9 Orch Hit
+Boss 9 Organ
+Boss 9 String
+NES Pulse 50%
+
+
+[EPISODE 2]
+
+
+SWEEPIN' TIME
+
+Sweepin Bass
+Sweepin Keyboard
+Sweepin Piano
+Sweepin Trumpet
+NES Pulse 50%
+NES Triangle
+Boss 9 Orch Hit
+
+
+MINEFIELD:
+
+Minefield Bass
+Minefield Synth
+Minefield Organ
+Boss 9 String
+Boss 9 Orch Hit
+
+
+THE CUSTODIAN OF THE SEA:
+
+Custodian Bass
+Custodian Brass
+Custodian Flute
+Custodian Lead
+Custodian Piano
+Boss 10 String
+Mines Ahoy Organ 2
+
+
+FINAL BOSS 10:
+
+Boss 10 Drums
+Boss 10 Drums 2
+Boss 10 Guitar
+Boss 10 Lead
+Boss 10 Orch Hit
+Boss 10 Organ
+Boss 10 Piano
+Boss 10 Saw
+Boss 10 String
+Boss 10 Violin
+NES Pulse 50%
+
+
+[EPISODE 3]
+
+
+FINAL BOSS 11:
+
+Boss 11 Bell
+Boss 11 Flute
+Boss 11 Stac String
+Boss 11 Sus String
+Boss 11 Timpani
+Boss 11 Viola
+Boss 9 Bass
+Boss 9 Orch Hit
+Boss 9 String
+Mines Ahoy Harmonica
+Custodian Brass
+NES Pulse 25%
+NES Pulse 50%
+TDL Low Drum
+
+
+Minesweeper Plus made by Jorel Simpson
+Soundfont made by AcidNT3.1

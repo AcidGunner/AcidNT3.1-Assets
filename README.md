@@ -1,2 +1,69 @@
-# AcidNT3.1 Assets
-MIDIs, SF2s, VGMs, WOW!
+# AcidNT3.1's Assets Storage
+
+Here are the assets I made, or heavily changed. Feel free to use them, but credit please ;)
+
+## Contains:
+- # MIDIs
+	- ## Minesweeper Plus
+		- ### Minesweeper Plus: 2K Edition (totally upcoming minesweeper plus copy for windows 2000 and xp)
+			- [Title Screen (BETA)](MIDIs/Minesweeper%20Plus/2K%20Edition/Minesweeper%20Plus%202K%20Edition%20-%20Title%20Screen%20\(CD\)%20\[BETA\].mid)
+			- [Soukaitei](MIDIs/Minesweeper%20Plus/2K%20Edition/Minesweeper%20Plus%202K%20Edition%20-%20Soukaitei%20\(CD\).mid)
+			- [Kiddie Pool/Rainy Puddle](MIDIs/Minesweeper%20Plus/2K%20Edition/Minesweeper%20Plus%202K%20Edition%20-%20Soukaitei%20Map%20\(CD\).mid)
+			- [Stage Clear 1](MIDIs/Minesweeper%20Plus/2K%20Edition/Minesweeper%20Plus%202K%20Edition%20-%20Soukaitei%20Win%20\(CD\).mid)
+		- ### Minesweeper Plus: PS3 Edition
+			- [Sweeping Warrior](MIDIs/Minesweeper%20Plus/PS3%20Edition/Minesweeper%20Plus%20PS3%20-%20Sweeping%20Warrior.mid)
+		- ### Ripped From (but partially not the drums :P)
+			- [Minesweeper Plus - Final Boss 9](MIDIs/Minesweeper%20Plus/Ripped%From/Minesweeper%20Plus%20-%20Final%20Boss%209.mid)
+			- [Minesweeper Plus - Final Boss 10](MIDIs/Minesweeper%20Plus/Ripped%From/Minesweeper%20Plus%20-%20Final%20Boss%2010.mid)
+			- [Minesweeper Plus - Final Boss 11](MIDIs/Minesweeper%20Plus/Ripped%From/Minesweeper%20Plus%20-%20Final%20Boss%2011.mid)
+			- [Minesweeper Plus - Mines Ahoy!](MIDIs/Minesweeper%20Plus/Ripped%From/Minesweeper%20Plus%20-%20Mines%20Ahoy.mid)
+			- [Minesweeper Plus - The Custodian of the Sea](MIDIs/Minesweeper%20Plus/Ripped%From/Minesweeper%20Plus%20-%20The%20Custodian%20of%20the%20Sea.mid)
+			- [Minesweeper (Soukaitei) - BGM 1](MIDIs/Minesweeper%20Plus/Ripped%From/Minesweeper%20Soukaitei%20-%20BGM%201.mid)
+			- [Minesweeper (Soukaitei) - Menu](MIDIs/Minesweeper%20Plus/Ripped%From/Minesweeper%20Soukaitei%20-%20MENU%20.mid)
+			- [Minesweeper (Soukaitei) - Win 1](MIDIs/Minesweeper%20Plus/Ripped%From/Minesweeper%20Soukaitei%20-%20WIN%201.mid)
+		- ### Arranged by myself
+			- [Minesweeper Plus - Crunching Numbers](MIDIs/Minesweeper%20Plus/Self-Made/Minesweeper%20Plus%20-%20Crunching%20Numbers%20BGM.mid)
+			- [Minesweeper Plus - Stage Clear 2](MIDIs/Minesweeper%20Plus/Self-Made/Minesweeper%20Plus%20-%20Crunching%20Numbers%20WIN.mid)
+			- [Minesweeper Plus - Final Boss 11 (Re-creation attempt)](MIDIs/Minesweeper%20Plus/Self-Made/Minesweeper%20Plus%20-%20Final%20Boss%2011%20Recreation%20Attempt.mid)
+			- [Minesweeper Plus UST - True Boss 11](MIDIs/Minesweeper%20Plus/Self-Made/Minesweeper%20Plus%20UST%20-%20True%20Boss%2011.mid)
+		- ### Minesweeper Zero (totally upcoming j2me minesweeper game)
+			- [Title Screen](MIDIs/Minesweeper%20Plus/Zero/Minesweeper%20Zero%20-%20Title%20Screen.mid)
+	- ## My Music
+		- ### Rotten Apples
+			- [Troubles in Schoolhouse](MIDIs/MyMusic/RottenApples/Troubles%20in%20Schoolhouse.mid)
+		- ### Disorientation
+			- [Inner Chaos](MIDIs/MyMusic/Disorientation/Inner%20Chaos.mid)
+			- [Unsorted Thoughts](MIDIs/MyMusic/Disorientation/Unsorted%20Thoughts.mid)
+		- ### Other Music
+			- [Effects of Disbelief](MIDIs/MyMusic/OtherMusic/EffectsOfDisbelief.mid)
+	- ## Forsaken
+		- [Creation of Hatred](MIDIs/Forsaken/CreationOfHatredByToySynthA.K.A.AcidGunner.mid)
+		- [Pay Off Your Debts](MIDIs/Forsaken/Pay%20Off%20Your%20Debts.mid)
+		- [Plead](MIDIs/Forsaken/Plead.mid)
+	- ## Touhou
+		- [Alstroemeria Records - Bad Apple!!](MIDIs/Touhou/Bad%20Apple!!.mid)
+		- [(SCRAPPED) Touhou 06: PS3 - Luna Dial ~ Luna Clock](MIDIs/Touhou/Touhou%2006%20PS3%20-%20Luna%20Dial%20~%20Luna%20Clock.mid)
+	- ## Other
+		- [Rick Astley - Never Gonna Give You Up](MIDIs/Other/NeverGonnaGiveYouUp.mid)
+		- [Undertale - Nyeh Heh Heh](MIDIs/Other/Undertale%20-%20Nyeh%20Heh%20Heh.mid)
+- # FL Studio Projects (FLP)
+	- [Baldi's Basics Classic Remastered - Schoolhouse Trouble](FLPs/Baldi's%20Basics%20Classic%20Remastered%20-%20Schoolhouse%20Trouble.zip)
+	- [Forsaken - Pay Off Your Debts (V2)](FLPs/Forsaken/Pay%20Off%20Your%20Debts%20V2.zip)
+	- [Forsaken - Pay Off Your Debts](FLPs/Forsaken/Pay%20Off%20Your%20Debts.zip)
+	- [Minesweeper Plus - Final Boss 11 Recreation Attempt](FLPs/Minesweeper%20Plus%20-%20Final%20Boss%2011%20Recreation%20Attempt.zip)
+	- [Touhou 06 - U.N. Owen was Her](FLPs/Touhou%2006%20-%20U.N.%20Owen%20was%20Her.zip)
+- # MegaDrive/Genesis VGMs
+	- [Minesweeper Plus - Final Boss 9 Genesis Mix](VGMs/FinalBoss9.vgm)
+	- [Forsaken - Creation of Hatred](VGMs/CreationOfHatred.vgm)
+	- [Forsaken - Plead](VGMs/PLEAD.vgm)
+	- [AFStHRL - Title Screen](VGMs/Sonic1Title.vgm)
+	- [AFStHRL - Scrap Fuck](VGMs/ScrapFuck.vgm)
+	- [AcidNT3.1 - THIRTY ONE](VGMs/31.vgm)
+- # SoundFonts \[HIGHLIGHTED\]
+	- [Minesweeper Plus Soundfont v0.5](SF2s/Minesweeper%20Plus%20Soundfont.sf2) ([INFO, PLEASE READ ME](SF2s/Minesweeper%20Plus%20Soundfont%20Info.txt))
+	- [PS3 XMB Soundfont](SF2s/PS3%20XMB%20Menu.sf2)
+	- [Metal Pipe Soundfont](SF2s/Metal%20Pipe.sf2)
+	- [Hmmmm Alastor Hasbin Hotel Soundfont](SF2s/Hmmmm%20Hazbin%20Hotel.sf2)
+	- [SoundCloud "EH" Soundfont](SF2s/eh.sf2)
+	- [Cirno Baka Soundfont](SF2s/BAKA.sf2)
+	- [See more..](SF2s/)
