@@ -6,6 +6,8 @@ The Soundfont version is [v0.5]!!!
 For now contains only samples from:
 
 [EPISODE 1]
+Soukaitei (BGM Style 1/Stage Clear 1/[Kiddie Pool/Rainy Puddle] included)
+Crunching Numbers (BGM Style 2/Stage Clear 2/[Small Pond/Blue Lagoon] included) [PARTIALLY]
 Mines Ahoy (BGM Style 3/Stage Clear 3/[Lazy River/Great Lake] included)
 Final Boss 9 (BGM Style 9/Stage Clear 9 included)
 
@@ -41,6 +43,23 @@ NES Pulse 50%
 
 
 [EPISODE 1]
+
+
+SOUKAITEI:
+
+Soukaitei Bass
+Soukaitei Sax
+Soukaitei Steel Drum
+Boss 9 Orch Hit
+
+
+CRUNCHING NUMBERS:
+
+Crunching Bass
+Crunching Clavicord
+Crunching Rhodes
+Boss 9 Lead
+Boss 9 Orch Hit
 
 
 MINES AHOY:

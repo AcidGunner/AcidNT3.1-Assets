@@ -60,7 +60,7 @@ Here are the assets I made, or heavily changed. Feel free to use them, but credi
 	- [AFStHRL - Scrap Fuck](VGMs/ScrapFuck.vgm)
 	- [AcidNT3.1 - THIRTY ONE](VGMs/31.vgm)
 - # SoundFonts \[HIGHLIGHTED\]
-	- [Minesweeper Plus Soundfont v0.5](SF2s/Minesweeper%20Plus%20Soundfont.sf2) ([INFO, PLEASE READ ME](SF2s/Minesweeper%20Plus%20Soundfont%20Info.txt))
+	- [Minesweeper Plus Soundfont v0.6](SF2s/Minesweeper%20Plus%20Soundfont.sf2) ([INFO, PLEASE READ ME](SF2s/Minesweeper%20Plus%20Soundfont%20Info.txt))
 	- [PS3 XMB Soundfont](SF2s/PS3%20XMB%20Menu.sf2)
 	- [Metal Pipe Soundfont](SF2s/Metal%20Pipe.sf2)
 	- [Hmmmm Alastor Hasbin Hotel Soundfont](SF2s/Hmmmm%20Hazbin%20Hotel.sf2)
