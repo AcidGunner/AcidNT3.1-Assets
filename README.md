@@ -54,6 +54,7 @@ Here are the assets I made, or heavily changed. Feel free to use them, but credi
 	- [Touhou 06 - U.N. Owen was Her](FLPs/Touhou%2006%20-%20U.N.%20Owen%20was%20Her.zip)
 - # MegaDrive/Genesis VGMs
 	- [Minesweeper Plus - Final Boss 9 Genesis Mix](VGMs/FinalBoss9.vgm)
+	- [Minesweeper Plus - Mines Ahoy!](VGMs/MinesAhoy.vgm)
 	- [Forsaken - Creation of Hatred](VGMs/CreationOfHatred.vgm)
 	- [Forsaken - Plead](VGMs/PLEAD.vgm)
 	- [AFStHRL - Title Screen](VGMs/Sonic1Title.vgm)

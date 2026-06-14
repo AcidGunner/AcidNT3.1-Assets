@@ -1,7 +1,7 @@
 PLEASE READ ME BEFORE DOING ANYTHING ELSE!!!
 
 This is the documentation to Minesweeper Plus Soundfont.
-The Soundfont version is [v0.5]!!!
+The Soundfont version is [v0.6]!!!
 
 For now contains only samples from:
 
@@ -9,6 +9,7 @@ For now contains only samples from:
 Soukaitei (BGM Style 1/Stage Clear 1/[Kiddie Pool/Rainy Puddle] included)
 Crunching Numbers (BGM Style 2/Stage Clear 2/[Small Pond/Blue Lagoon] included) [PARTIALLY]
 Mines Ahoy (BGM Style 3/Stage Clear 3/[Lazy River/Great Lake] included)
+Für Elise or idk, possible instruments found I guess.
 Final Boss 9 (BGM Style 9/Stage Clear 9 included)
 
 [EPISODE 2]
@@ -72,6 +73,11 @@ Mines Ahoy Organ 1
 Mines Ahoy Organ 2
 Mines Ahoy Sax
 Boss 9 Orch Hit
+
+
+FÜR ELISE:
+
+Custodian Piano (Found out by Apex)
 
 
 FINAL BOSS 9:
