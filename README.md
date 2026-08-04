@@ -3,6 +3,14 @@
 Here are the assets I made, or heavily changed. Feel free to use them, but credit please ;)
 
 ## Contains:
+- # SoundFonts \[HIGHLIGHTED\]
+	- [Minesweeper Plus Soundfont v0.6](SF2s/Minesweeper%20Plus%20Soundfont.sf2) ([INFO, PLEASE READ ME](SF2s/Minesweeper%20Plus%20Soundfont%20Info.txt))
+	- [PS3 XMB Soundfont](SF2s/PS3%20XMB%20Menu.sf2)
+	- [Metal Pipe Soundfont](SF2s/Metal%20Pipe.sf2)
+	- [Hmmmm Alastor Hasbin Hotel Soundfont](SF2s/Hmmmm%20Hazbin%20Hotel.sf2)
+	- [SoundCloud "EH" Soundfont](SF2s/eh.sf2)
+	- [Cirno Baka Soundfont](SF2s/BAKA.sf2)
+	- [See more..](SF2s/)
 - # MIDIs
 	- ## Minesweeper Plus
 		- ### Minesweeper Plus: 2K Edition (totally upcoming minesweeper plus copy for windows 2000 and xp)
@@ -10,7 +18,7 @@ Here are the assets I made, or heavily changed. Feel free to use them, but credi
 			- [Soukaitei](MIDIs/Minesweeper%20Plus/2K%20Edition/Minesweeper%20Plus%202K%20Edition%20-%20Soukaitei%20\(CD\).mid)
 			- [Kiddie Pool/Rainy Puddle](MIDIs/Minesweeper%20Plus/2K%20Edition/Minesweeper%20Plus%202K%20Edition%20-%20Soukaitei%20Map%20\(CD\).mid)
 			- [Stage Clear 1](MIDIs/Minesweeper%20Plus/2K%20Edition/Minesweeper%20Plus%202K%20Edition%20-%20Soukaitei%20Win%20\(CD\).mid)
-		- ### Minesweeper Plus: PS3 Edition
+		- ### PS3Sweeper+ (formerly known as Minesweeper Plus: PS3 Edition)
 			- [Sweeping Warrior](MIDIs/Minesweeper%20Plus/PS3%20Edition/Minesweeper%20Plus%20PS3%20-%20Sweeping%20Warrior.mid)
 		- ### Ripped From (but partially not the drums :P)
 			- [Minesweeper Plus - Final Boss 9](MIDIs/Minesweeper%20Plus/Ripped%From/Minesweeper%20Plus%20-%20Final%20Boss%209.mid)
@@ -46,6 +54,7 @@ Here are the assets I made, or heavily changed. Feel free to use them, but credi
 	- ## Other
 		- [Rick Astley - Never Gonna Give You Up](MIDIs/Other/NeverGonnaGiveYouUp.mid)
 		- [Undertale - Nyeh Heh Heh](MIDIs/Other/Undertale%20-%20Nyeh%20Heh%20Heh.mid)
+		- [Toy Story - VS Woody](MIDIs/Other/Toy%20Story%20-%20VS%20Woody.mid)
 - # FL Studio Projects (FLP)
 	- [Baldi's Basics Classic Remastered - Schoolhouse Trouble](FLPs/Baldi's%20Basics%20Classic%20Remastered%20-%20Schoolhouse%20Trouble.zip)
 	- [Forsaken - Pay Off Your Debts (V2)](FLPs/Forsaken/Pay%20Off%20Your%20Debts%20V2.zip)
@@ -60,11 +69,3 @@ Here are the assets I made, or heavily changed. Feel free to use them, but credi
 	- [AFStHRL - Title Screen](VGMs/Sonic1Title.vgm)
 	- [AFStHRL - Scrap Fuck](VGMs/ScrapFuck.vgm)
 	- [AcidNT3.1 - THIRTY ONE](VGMs/31.vgm)
-- # SoundFonts \[HIGHLIGHTED\]
-	- [Minesweeper Plus Soundfont v0.6](SF2s/Minesweeper%20Plus%20Soundfont.sf2) ([INFO, PLEASE READ ME](SF2s/Minesweeper%20Plus%20Soundfont%20Info.txt))
-	- [PS3 XMB Soundfont](SF2s/PS3%20XMB%20Menu.sf2)
-	- [Metal Pipe Soundfont](SF2s/Metal%20Pipe.sf2)
-	- [Hmmmm Alastor Hasbin Hotel Soundfont](SF2s/Hmmmm%20Hazbin%20Hotel.sf2)
-	- [SoundCloud "EH" Soundfont](SF2s/eh.sf2)
-	- [Cirno Baka Soundfont](SF2s/BAKA.sf2)
-	- [See more..](SF2s/)
